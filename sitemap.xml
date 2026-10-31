@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-       <loc>https://en-eng-trimology.us/</loc>
-       <lastmod>2026-07-27T05:00:19+00:00</lastmod>
-       <changefreq>daily</changefreq>
+       <loc>https://trimology-acid.vercel.app/</loc>
+       <lastmod>2026-10-31T13:04:51+00:00</lastmod>
        <priority>1.0000</priority>
   </url>
   <url>
-       <loc>https://en-eng-trimology.us/refund-policy.html</loc>
-       <lastmod>2026-07-27T00:58:44+00:00</lastmod>
-       <changefreq>daily</changefreq>
+       <loc>https://trimology-acid.vercel.app/index.html</loc>
+       <lastmod>2026-10-31T13:04:51+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://en-eng-trimology.us/contact-us.html</loc>
-       <lastmod>2026-07-27T00:58:44+00:00</lastmod>
-       <changefreq>daily</changefreq>
+       <loc>https://trimology-acid.vercel.app/contact-us.html</loc>
+       <lastmod>2026-10-31T13:04:51+00:00</lastmod>
        <priority>0.8000</priority>
   </url>
 </urlset>
